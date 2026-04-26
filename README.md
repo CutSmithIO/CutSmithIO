@@ -1,16 +1,18 @@
-## Hi there 👋
+# CutSmith
 
-<!--
-**CutSmithIO/CutSmithIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Post-production tools for editors who ship.
 
-Here are some ideas to get you started:
+## What we're building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 **Caption** — SRT ↔ FCPXML converter
+- 🔄 **Convert** — XML version translator across NLEs
+- 📦 **Batch** — Watermark, transcode, burn-in subtitles in bulk
+
+Optimized for Premiere Pro, Final Cut Pro, and DaVinci Resolve.
+
+## Status
+
+Building in public. First tool launching soon.
+
+→ [cutsmith.io](https://cutsmith.io)
+→ [@CutSmithIO](https://twitter.com/CutSmithIO) on X
